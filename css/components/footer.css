@@ -1,0 +1,18 @@
+.footer {
+  background-color: rgba(0, 0, 0, 0.845);
+  color: bisque;
+  margin-top: 40px;
+  padding: 50;
+  height: 150px;
+  text-align: center;
+}
+
+.footer i {
+  font-size: 250%;
+  color: red;
+  margin: 25px;
+}
+
+.footer i:hover {
+  text-shadow: 0 0 10px;
+}

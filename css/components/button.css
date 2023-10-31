@@ -1,0 +1,25 @@
+.btn-green {
+  display: inline-block;
+  color: white;
+  background-color: rgb(72, 224, 55);
+  text-decoration: none;
+  padding-inline: 24px;
+  padding-block: 16px;
+  border-radius: 25px;
+}
+
+.btn-red {
+  display: inline-block;
+  color: white;
+  background-color: rgb(217, 33, 33);
+  text-decoration: none;
+  padding-inline: 24px;
+  padding-block: 16px;
+  border-radius: 25px;
+}
+
+.btn-red:hover {
+  box-shadow: 0 0 20px black;
+  background-color: rgb(172, 12, 12);
+  transition: 0.5s;
+}

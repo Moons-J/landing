@@ -1,0 +1,23 @@
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around
+}
+
+.card {
+  /* display: flex; */
+  background-color: antiquewhite;
+  box-shadow: 0 0 20px black;
+  width: 220px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.card i {
+  font-size: 150%;
+}
+
+.card h4 {
+  font-size: 250%;
+}
+

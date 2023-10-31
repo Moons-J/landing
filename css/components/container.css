@@ -1,0 +1,11 @@
+.container {
+  width: auto;
+  margin: auto;
+  margin-inline: 50px;
+}
+
+.container h1,.container h2,.container h3 {
+  font-family: 'Italianno', cursive;
+  font-size: 400%;
+  text-align: center;
+}
